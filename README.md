@@ -1,36 +1,37 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=00FF0E&background=4B3AFF00&multiline=true&width=435&lines=Hello+World%2C;I+am+Wagner+In%C3%A1cio+de+Oliveira!" alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0BF700&width=500&height=100&lines=print(%22Hello+World!%22);I+am+Wagner+In%C3%A1cio+de+Oliveira)](https://git.io/typing-svg)
+
+<img align="right" alt="tux-typing-gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RwbGpscmV3a2tpZjAyMzNnYzVsdXd1enN1OWpwbHEwNXBzbWMyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="165px" />
+<p>  
+ Tudo começou com a Engenharia de Software, mas foi explorando o universo dos dados que descobri o que realmente brilha meus olhos: a <strong>Engenharia de Dados</strong>. 🚀<br><br>  
+  Atualmente, atuo na Nestlé como Engenheiro de Dados e Analytics, em projetos que transformam dados em decisões, unindo tecnologia, estratégia e impacto real no negócio. Com uma boa música e um cafezinho, gosto de simplificar o complexo e automatizar tudo o que for possível. ☕🎶  
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="70%">
-      <h3>👨‍💼 Sobre mim</h3>
-      <p>
-        Olá! Sou o Wagner, natural de Rondônia e formado em Engenharia de Software. Minha trajetória passou pelo desenvolvimento de software e pela ciência de dados, até eu me encontrar naquilo que realmente me move: <strong>Engenharia de Dados e Analytics</strong>. 💡
-        <br><br>
-        Hoje atuo na Nestlé impulsionando projetos que conectam dados, inteligência e impacto real no negócio. Tenho paixão por transformar complexidade em soluções escaláveis, com foco em eficiência e tomada de decisão orientada a dados.
-        <br><br>
-        Ah, e além dos dados… sou movido a <strong>café forte</strong> e <strong>música boa</strong>! ☕🎶
-      </p>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ1YXhzdWttN292bzNhYTBvcmk4NWJweWRhZm9mc2JienhuM3QzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="170px">
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+### Codar para colocar comida na mesa dos meus Pacmans  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-### 🏆 Premiações
+</div>
 
-- 🥇 Estudante Destaque de Engenharia de Software pela Sociedade Brasileira de Computação
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagnerinacio16/wagnerinacio16/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wagnerinacio16/wagnerinacio16/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wagnerinacio16/wagnerinacio16/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ⚙️ Ferramentas e Tecnologias
 
 #### 🧠 Linguagens de Programação  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 #### 🌐 Desenvolvimento Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,8 +57,8 @@
 #### 🔄 Desenho de Processos & Automação  
 ![ETL](https://img.shields.io/badge/ETL-00BFFF?style=for-the-badge&logo=airflow&logoColor=white)  ![Pipeline](https://img.shields.io/badge/Data_Pipeline-0078D7?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--
 ### 🤝 Vamos nos conectar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wagner-inacio-de-oliveira/)
@@ -68,11 +69,5 @@
 ✨ _"Só podemos ver uma curta distância à frente, mas podemos ver muito do que precisa ser feito."_ – Alan Turing  
 
 ![Bandeira do Orgulho LGBTQ+](https://img.shields.io/badge/Orgulho🏳️‍🌈-Apoio_LGBTQ+-%23FF69B4?style=for-the-badge)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[wagnerinacio16]/[wagnerinacio16]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[wagnerinacio16]/[wagnerinacio16]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[wagnerinacio16]/[wagnerinacio16]/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
