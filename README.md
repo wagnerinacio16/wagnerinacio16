@@ -58,6 +58,11 @@
 ![ETL](https://img.shields.io/badge/ETL-00BFFF?style=for-the-badge&logo=airflow&logoColor=white)  ![Pipeline](https://img.shields.io/badge/Data_Pipeline-0078D7?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <p><a href="https://github.com/wagnerinacio16"><img src="https://komarev.com/ghpvc/?username=wagnerinacio16&color=447ff7&label=views" alt="Views count Badge"/></a>
+<!--  <a href="https://github.com/wagnerinacio16/wagnerinacio16/blob/main/LICENSE"><img src="https://img.shields.io/github/license/wagnerinacio16/wagnerinacio16?color=2b9348" alt="License Badge"/></a></p> -->
+  <p>Developed by wagnerinacio16</p>
+</div>
 <!--
 ### 🤝 Vamos nos conectar
 
@@ -71,3 +76,9 @@
 ![Bandeira do Orgulho LGBTQ+](https://img.shields.io/badge/Orgulho🏳️‍🌈-Apoio_LGBTQ+-%23FF69B4?style=for-the-badge)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
