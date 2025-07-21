@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0BF700&width=500&height=100&lines=print(%22Hello+World!%22);I+am+Wagner+In%C3%A1cio+de+Oliveira)](https://git.io/typing-svg)
 
-<img align="right" alt="tux-typing-gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RwbGpscmV3a2tpZjAyMzNnYzVsdXd1enN1OWpwbHEwNXBzbWMyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="165px" />
+<!--<img align="right" alt="tux-typing-gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RwbGpscmV3a2tpZjAyMzNnYzVsdXd1enN1OWpwbHEwNXBzbWMyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="165px" /> -->
+<img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="130px" />
+
 <p>  
- Tudo começou com a Engenharia de Software, mas foi explorando o universo dos dados que descobri o que realmente brilha meus olhos: a <strong>Engenharia de Dados</strong>. 🚀<br><br>  
-  Atualmente, atuo na Nestlé como Engenheiro de Dados e Analytics, em projetos que transformam dados em decisões, unindo tecnologia, estratégia e impacto real no negócio. Com uma boa música e um cafezinho, gosto de simplificar o complexo e automatizar tudo o que for possível. ☕🎶  
+ Tudo começou com a Engenharia de Software, mas foi explorando o universo dos dados que descobri o que realmente brilha meus olhos é a <strong>Engenharia de Dados.</strong> Atualmente, atuo na Nestlé como Engenheiro de Dados e Analytics, em projetos que transformam dados em decisões, unindo tecnologia, estratégia e impacto real no negócio. Com uma boa música e um cafezinho, gosto de simplificar o complexo e automatizar tudo o que for possível. ;)  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
