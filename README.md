@@ -6,7 +6,11 @@
 <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="130px" />
 
 <p>  
- Tudo começou com a Engenharia de Software, mas foi explorando o universo dos dados que descobri o que realmente brilha meus olhos é a <strong>Engenharia de Dados.</strong> Atualmente, atuo na Nestlé como Engenheiro de Dados e Analytics, em projetos que transformam dados em decisões, unindo tecnologia, estratégia e impacto real no negócio. Com uma boa música e um cafezinho, gosto de simplificar o complexo e automatizar tudo o que for possível. ;)  
+Seja bem-vindo :) <br>
+Sou formado em Engenharia de Software e ao longo da minha jornada em TI, já atuei como desenvolvedor, cientista de dados e atualmente como engenheiro de dados e analytics.
+Sou curioso por natureza, adoro aprender coisas novas e automatizar tudo o que posso com a ajuda da tecnologia.
+Este repositório está em constante construção, aqui compartilho o que venho estudando, testando e desenvolvendo.
+Então, pega seu cafezinho ☕ e sinta-se à vontade para explorar. Volte sempre! ✨
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
