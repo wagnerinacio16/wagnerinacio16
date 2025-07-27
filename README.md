@@ -7,8 +7,8 @@
 
 <p>  
 Seja bem-vindo :) <br>
-Sou formado em Engenharia de Software e ao longo da minha jornada em TI, já atuei como desenvolvedor, cientista de dados e atualmente como engenheiro de dados e analytics.
-Sou curioso por natureza, adoro aprender coisas novas e automatizar tudo o que posso com a ajuda da tecnologia.
+Sou formado em Engenharia de Software, e ao longo da minha jornada em TI já atuei como desenvolvedor, cientista de dados e atualmente como engenheiro de dados e analytics.
+Sou bem curioso, adoro aprender coisas novas e automatizar tudo o que posso por meio da tecnologia.
 Este repositório está em constante construção, aqui compartilho o que venho estudando, testando e desenvolvendo.
 Então, pega seu cafezinho e sinta-se à vontade para explorar. Volte sempre!
 </p>
