@@ -34,32 +34,32 @@ Então, pega seu cafezinho e sinta-se à vontade para explorar. Volte sempre!
 
 ### ⚙️ Ferramentas e Tecnologias
 
-#### 🧠 Linguagens de Programação  
+#### Linguagens de Programação  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-#### 🌐 Desenvolvimento Web  
+#### Desenvolvimento Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧰 Plataformas  
+#### Plataformas  
 ![Databricks](https://img.shields.io/badge/Databricks-E67261?style=for-the-badge&logo=databricks&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoftpowerquery&logoColor=black)  ![Power Automate](https://img.shields.io/badge/Power_Automate-094AB2?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-#### 🏗️ Frameworks  
+#### Frameworks  
 ![PySpark](https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apache-spark&logoColor=white)  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### 🧪 Ferramentas de Teste de APIs  
+#### Ferramentas de Teste de APIs  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 📈 Metodologias Ágeis  
+#### Metodologias Ágeis  
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white)
 
-#### 🔄 Controle de Versão  
+#### Controle de Versão  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-#### 🤖 Machine Learning & Modelagem Preditiva  
+#### Machine Learning & Modelagem Preditiva  
 ![Python](https://img.shields.io/badge/ML_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Prophet](https://img.shields.io/badge/Prophet-FF6F61?style=for-the-badge&logo=facebook&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-13B0BB?style=for-the-badge&logo=mlflow&logoColor=white)
 
-#### 🔄 Desenho de Processos & Automação  
+#### Desenho de Processos & Automação  
 ![ETL](https://img.shields.io/badge/ETL-00BFFF?style=for-the-badge&logo=airflow&logoColor=white)  ![Pipeline](https://img.shields.io/badge/Data_Pipeline-0078D7?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
