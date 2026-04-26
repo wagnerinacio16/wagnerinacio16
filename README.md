@@ -9,8 +9,7 @@
 Seja bem-vindo :) <br>
 Sou formado em Engenharia de Software, e ao longo da minha jornada em TI já atuei como desenvolvedor, cientista de dados e atualmente como engenheiro de dados e analytics.
 Sou bem curioso, adoro aprender coisas novas e automatizar tudo o que posso por meio da tecnologia.
-Este repositório está em constante construção, aqui compartilho o que venho estudando, testando e desenvolvendo.
-Então, pega seu cafezinho e sinta-se à vontade para explorar!
+Este repositório está em constante construção, aqui compartilho o que venho estudando, testando e desenvolvendo. Sinta-se à vontade para explorar!
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
